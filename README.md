@@ -6,7 +6,7 @@ This project implements **Authentication**, **Authorization**, and **Role-Based 
 
 ## **Features**
 - User registration, login, and logout.
-- Role-based resource access (e.g., Admin, User, Moderator).
+- Role-based resource access (e.g., Admin, User, Manager).
 - Secure authentication using JWT.
 - Middleware for authentication and role-based authorization.
 
