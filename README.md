@@ -27,8 +27,6 @@ This project implements **Authentication**, **Authorization**, and **Role-Based 
 2. Install following modules:
     ```bash
    npm install express bcrypt jsonwebtoken nodemon dotenv mongoose
-   OR
-   npm i
    ```
    OR
    ```bash
