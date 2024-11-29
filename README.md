@@ -25,9 +25,13 @@ This project implements **Authentication**, **Authorization**, and **Role-Based 
    cd RBAC
    ```
 2. Install following modules:
-   ```bash
+    ```bash
    npm install express bcrypt jsonwebtoken nodemon dotenv mongoose
    OR
+   npm i
+   ```
+   OR
+   ```bash
    npm i
    ```
 3. Run the file:
